@@ -5,5 +5,8 @@
     <classes>
       <class name="ddtExample.NOpCommLogin"/>
 <class name="ddtExample.NOpCommLogin"/>
+      <class name="ddtExample.NOpCommLogin"/>
+<class name="ddtExample.NOpCommLogin"/>
+
   </test> <!-- Test -->
 </suite> <!-- Suite -->
